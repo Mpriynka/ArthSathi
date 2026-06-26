@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ChillarSeedhi local runtime databases
+chillar_seedhi.db
+qdrant_db/
+
+# Node/React dependencies and builds
+frontend/node_modules/
+frontend/dist/
+frontend/.eslintcache
+frontend/.oxlintcache
